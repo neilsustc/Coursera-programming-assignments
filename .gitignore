@@ -1,3 +1,10 @@
+# Coursera: machine learning
+lib/
+*.pdf
+*.txt
+*.mat
+octave-workspace
+
 # Windows image file caches
 Thumbs.db
 ehthumbs.db
